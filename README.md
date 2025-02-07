@@ -5,9 +5,11 @@ Automated Box.com File Downloader using Nightwatch.js A Nightwatch.js script tha
 
 1️⃣ Install Dependencies
 
-✔ **Make sure you have Node.js installed, then install the required packages:
+    ✔ **Make sure you have Node.js installed, then install the required packages:
 
-✔ **npm install -g nightwatch chromedriver
+```
+npm install -g nightwatch chromedriver
+```
 
 2️⃣ Configure Nightwatch.js
 
